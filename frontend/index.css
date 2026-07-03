@@ -1,6 +1,13 @@
 h1{
-    background-color: white;
+    color : red;
 }
-body{
-    background-color: gray;
+#home-intro{
+    text-align: center;
+    border: 3px solid black;
+}
+#home-intro:hover{
+    background-color: lightblue;
+}
+#p2{
+    color:blue;
 }
